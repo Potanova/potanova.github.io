@@ -385,8 +385,8 @@ button {
 
 /** banner section **/
 .hero-image {
-     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/project/cewe.jpg");
-     height: 50%;
+     /* background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/project/cewe.jpg");
+     height: 50%; */
      background-position: center;
      background-repeat: no-repeat;
      background-size: cover;
